@@ -1,0 +1,29 @@
+* {
+  background-color: pink;
+}
+
+.box {
+  background-color: rgb(84, 84, 80);
+  margin: 1rem;
+  width: 4rem;
+  height: 4rem;
+  display: inline-block;
+}
+.box1 {
+  float: left;
+}
+.box4, .box5, .box6{
+    float: right;
+}
+.box8{
+    float: right;
+}
+.box11{
+    float: right;
+}
+.box13{
+    float: right;
+}
+.box15, .box16, .box17{
+    float: right;
+}
